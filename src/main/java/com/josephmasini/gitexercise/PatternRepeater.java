@@ -11,7 +11,7 @@ public class PatternRepeater {
     }
 
     /* Implement method to sort an array of strings */
-    public String[] stringArraySorter(String [] stringArray)
+    public String[] stringArraySorter(String [] stringArray){
         Arrays.sort(stringArray);
         return stringArray;
     }
